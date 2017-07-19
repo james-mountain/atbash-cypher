@@ -1,7 +1,7 @@
 /**
   * Created by Administrator on 19/07/2017.
   */
-object Cypher extends App {
+object Cypher {
   val range = 'a'.toByte to 'z'.toByte
   val pivot = 'n'.toByte
 
